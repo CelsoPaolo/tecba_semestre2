@@ -1,3 +1,6 @@
-# tecba_semestre2
-diseño y desarrollo web I
+# TECBA_SEMESTRE2
+Materia : diseño y desarrollo web I
+
 Nombre Completo : Celso Paolo Velasco Espinoza
+
+
