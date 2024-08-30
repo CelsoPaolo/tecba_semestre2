@@ -7,4 +7,4 @@ descripcion : soy estudiante del tecba , me gusta programar
 
  me gutan los fines de semana 
 
- me gusta aprender y adquirir nuevos conocimiento 
+ me gusta aprender y adquirir nuevos conocimiento .
