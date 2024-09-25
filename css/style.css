@@ -1,0 +1,18 @@
+h1 {
+    font-size: 90px;
+    color: rgb(44, 44, 105);
+    background-color: rgb(45, 40, 40);
+    padding: 70px;
+}
+p{
+    font-size: 18px;
+    text-align: left;
+    font-weight: bold;
+    font-family: cursive;
+}
+a{
+    font-size: 50px;
+}
+body{
+    background-color: rgb(10, 50, 50);
+}
