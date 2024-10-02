@@ -2,7 +2,7 @@ h1 {
     font-size: 90px;
     color: rgb(44, 44, 105);
     background-color: rgb(45, 40, 40);
-    padding: 70px;
+    padding: 60px;
 }
 p{
     font-size: 18px;
@@ -11,8 +11,16 @@ p{
     font-family: cursive;
 }
 a{
-    font-size: 50px;
+    font-size: 19px;
 }
 body{
     background-color: slategrey;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+}
+ul{
+    font-weight: bold;
 }
